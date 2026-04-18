@@ -67,6 +67,13 @@ me.say_hi()
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
+![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
+
+### ⚙️ Backend & APIs
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### 🗄️ Databases & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -86,9 +93,9 @@ me.say_hi()
 
 | Project | Description | Tech | Status |
 |--------|-------------|------|--------|
+| 💰 **[Finance Guide](https://github.com/Soumik22-tech/Finance-guide)** | AI-powered personal finance companion — budgeting, investment insights, and financial literacy tools in one place. Live and deployed. | `JavaScript` `React` `Tailwind CSS` `Vercel` | ✅ [Live Demo](https://finance-guide-alpha.vercel.app/) |
 | 🔧 **[PredictiveMaintenance-ML](https://github.com/Soumik22-tech/PredictiveMaintenance-ML)** | ML system that detects industrial machinery failures from sensor data before they happen. Reduces unplanned downtime via predictive analytics. | `Python` `scikit-learn` `Pandas` `Jupyter` | ✅ Live |
 | 🌿 **[Eco-Footprint-Calculator](https://github.com/Soumik22-tech/Eco-Footprint-Calculator)** | Interactive carbon footprint tracker that quantifies individual environmental impact with actionable insights. | `JavaScript` `HTML` `CSS` | ✅ Live |
-| 🎨 **[Editkaro.in Portfolio](https://github.com/Soumik22-tech/Editkaro.in_Portfolio)** | Responsive, interactive portfolio site for a social media agency — built during Vault of Codes internship. | `HTML` `CSS` `JS` | ✅ Live |
 
 </div>
 
