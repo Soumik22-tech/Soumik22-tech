@@ -94,7 +94,7 @@ me.say_hi()
 | Project | Description | Tech | Status |
 |--------|-------------|------|--------|
 | 💰 **[Finance Guide](https://github.com/Soumik22-tech/Finance-guide)** | AI-powered personal finance companion — budgeting, investment insights, and financial literacy tools in one place. Live and deployed. | `JavaScript` `React` `Tailwind CSS` `Vercel` | ✅ [Live Demo](https://finance-guide-alpha.vercel.app/) |
-| 🧠 **[MindMesh](https://github.com/Soumik22-tech/MindMesh)** | Multi-agent AI orchestration platform that eliminates hallucinations and bias by forcing multiple LLMs into a structured, adversarial debate. | `Next.js` `Python / FastAPI` `Tailwind CSS` `Pydantic` | ✅ [Live Demo](https://mind-mesh-hazel.vercel.app/) |
+| 🧠 **[MaieoAI](https://github.com/Soumik22-tech/MindMesh)** | Multi-agent AI orchestration platform that eliminates hallucinations and bias by forcing multiple LLMs into a structured, adversarial debate. | `Next.js` `Python / FastAPI` `Tailwind CSS` `Pydantic` | ✅ [Live Demo](https://maieo-ai.vercel.app/) |
 | 🔧 **[PredictiveMaintenance-ML](https://github.com/Soumik22-tech/PredictiveMaintenance-ML)** | ML system that detects industrial machinery failures from sensor data before they happen. Reduces unplanned downtime via predictive analytics. | `Python` `scikit-learn` `Pandas` `Jupyter` | ✅ Live |
 | 🌿 **[Eco-Footprint-Calculator](https://github.com/Soumik22-tech/Eco-Footprint-Calculator)** | Interactive carbon footprint tracker that quantifies individual environmental impact with actionable insights. | `JavaScript` `HTML` `CSS` | ✅ Live |
 
