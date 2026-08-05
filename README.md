@@ -25,7 +25,7 @@ class SoumikMajumder:
     def __init__(self):
         self.name        = "Soumik Majumder"
         self.role        = ["AI Engineer", "Full Stack Developer", "ML Researcher"]
-        self.education   = "B.Tech CSE @ MAKAUT, Kolkata (2nd Year)"
+        self.education   = "B.Tech CSE @ MAKAUT, Kolkata (3rd Year)"
         self.location    = "📍 Kolkata, West Bengal, India"
         self.focus       = ["NLP", "Predictive ML", "Finance AI", "Web Applications"]
         self.building    = "AI-powered tools that bridge intelligence and utility"
@@ -51,7 +51,7 @@ me.say_hi()
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -64,10 +64,10 @@ me.say_hi()
 
 ### 🌐 Frontend & Frameworks
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
-![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
 
 ### ⚙️ Backend & APIs
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -96,7 +96,7 @@ me.say_hi()
 | 💰 **[Finance Guide](https://github.com/Soumik22-tech/Finance-guide)** | AI-powered personal finance companion — budgeting, investment insights, and financial literacy tools in one place. Live and deployed. | `JavaScript` `React` `Tailwind CSS` `Vercel` | ✅ [Live Demo](https://finance-guide-alpha.vercel.app/) |
 | 🧠 **[MaieoAI](https://github.com/Soumik22-tech/MindMesh)** | Multi-agent AI orchestration platform that eliminates hallucinations and bias by forcing multiple LLMs into a structured, adversarial debate. | `Next.js` `Python / FastAPI` `Tailwind CSS` `Pydantic` | ✅ [Live Demo](https://maieo-ai.vercel.app/) |
 | 🔧 **[PredictiveMaintenance-ML](https://github.com/Soumik22-tech/PredictiveMaintenance-ML)** | ML system that detects industrial machinery failures from sensor data before they happen. Reduces unplanned downtime via predictive analytics. | `Python` `scikit-learn` `Pandas` `Jupyter` | ✅ Live |
-| 🌿 **[Eco-Footprint-Calculator](https://github.com/Soumik22-tech/Eco-Footprint-Calculator)** | Interactive carbon footprint tracker that quantifies individual environmental impact with actionable insights. | `JavaScript` `HTML` `CSS` | ✅ Live |
+| ⚕️ **[Cura](https://github.com/Soumik22-tech/cura)** | AI-powered clinical portal that parses handwritten & printed prescriptions using Google Gemini, tracks vitals & blood pressure trends, and manages medication schedules — with secure auth and a PostgreSQL backend. | `React` `TypeScript` `Express.js` `Gemini API` `Neon PostgreSQL` `Clerk Auth` | ✅ [Live Demo](https://cura-one-chi.vercel.app) |
 
 </div>
 
@@ -108,8 +108,8 @@ me.say_hi()
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Soumik22-tech&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumik22-tech&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Soumik22-tech&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&cache_seconds=1800"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumik22-tech&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&cache_seconds=1800"/>
 
 <br/>
 
@@ -127,7 +127,7 @@ me.say_hi()
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Soumik22-tech&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Soumik22-tech&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
